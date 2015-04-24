@@ -1,2 +1,2 @@
 # yueyu.github.io
-my homepage
+my new homepage hosted on GitHub.
