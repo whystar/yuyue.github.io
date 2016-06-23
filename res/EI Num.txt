@@ -1,5 +1,6 @@
 Reviewer recommendation for pull-requests in GitHub: What can we learn from code review and bug assignment?
 Accession number: 20160601897892
+SCI:»Î≤ÿ∫≈: WOS:000374368000015
 
 Exploring the patterns of social behavior in Github
 Accession number: 20154401475853
