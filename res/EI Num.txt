@@ -1,6 +1,17 @@
+Wait For It: Determinants of Pull Request Evaluation Latency on GitHub
+20160601908444
+
+Quality and Productivity Outcomes Relating to Continuous Integration in GitHub
+Accession number: 20161102102329
+
+Determinants of pull-based development in the context of continuous integration
+SCI∫≈£∫WOS:000380684600005 
+IF:0.885
+
 Reviewer recommendation for pull-requests in GitHub: What can we learn from code review and bug assignment?
 Accession number: 20160601897892
 SCI:»Î≤ÿ∫≈: WOS:000374368000015
+IF£∫2.016
 
 Exploring the patterns of social behavior in Github
 Accession number: 20154401475853
